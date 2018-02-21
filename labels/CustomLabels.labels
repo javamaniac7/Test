@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"><labels>
+        <fullName>Helllo</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Helllo</shortDescription>
+        <value>123</value>
+    </labels></CustomLabels>
